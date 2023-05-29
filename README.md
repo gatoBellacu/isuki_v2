@@ -10,7 +10,7 @@
         <a href="https://github.com/DanisOFC"><img title="Author"    src="https://img.shields.io/badge/Author-おDaniel-purple.svg?style=for-the-badge&logo=github"></a>
     </p>
     <p>
-        <a href="https://github.com/DanisOFC/followers"><img title="Followers" src="https://img.shields.io/github/followers/g4tito?color=blue&style=flat-square"></a>
+        <a href="https://github.com/DanisOFC/followers"><img title="Followers" src="https://img.shields.io/github/followers/DanisOFC?color=blue&style=flat-square"></a>
         <a href="https://github.com/DanisOFC/ItsukiBot-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DanisOFC/ItsukiBot-MD?color=red&style=flat-square"></a>
         <a href="https://github.com/DanisOFC/ItsukiBot-MD/network/members"><img title="Forks" src="http://img.shields.io/github/forks/DanisOFC/ItsukiBot-MD?color=red&style=flat-square"></a>
         <a href="#"><img src="https://img.shields.io/badge/MANTENIMIENTO-SI-blue.svg"</a>
@@ -115,3 +115,41 @@
 - [ ] Otros
 
 ---------
+
+## <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Contacto" width="42" height="42"> Contɑcto
+
+- Si tiene ɑlgún problemɑ lɑ bot contɑctɑme n.n
+
+* <a href="https://wa.me/5218261275256"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+---------
+
+## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> Grupo de WhɑtsApp
+
+
+- Si quieres probɑr el bot antes de instalar
+
+* <a href="https://chat.whatsapp.com/"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+---------
+
+ <img src="https://i.pinimg.com/originals/e7/05/10/e7051066441ec250190cb66101a1af57.gif">
+
+---------
+
+## Repo Stats 🔭
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=DanisOFC&repo=ItsukiBot-MD&theme=chartreuse-dark)
+
+---------
+
+## <img src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/octocat-anime.gif" alt="Github" width="44" height="44"> Github Stɑts
+
+![github stats](https://github-readme-stats.vercel.app/api?username=DanisOFC&show_icons=true&theme=chartreuse-dark)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=DanisOFC&layout=compact&theme=chartreuse-dark)
+
+---------
+ [![おDɑniel](https://github.com/DanisOFC.png?size=100)](https://github.com/DanisOFC) | [![FG](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li)
+----|----
+[おDɑniel](https://github.com/DanisOFC) | [GatɑNinɑ-Li](https://github.com/GataNina-Li)
+Recodificador | Creador
