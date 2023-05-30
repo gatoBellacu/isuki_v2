@@ -91,7 +91,6 @@ global.moment = moment
 
 //━━━━━━━━━━━ ฅ^•ﻌ•^ฅ ━━━━━━━━━━━
 
-global.imagen1 = fs.readFileSync('./menu.jpg')
 global.miniurl = fs.readFileSync('./src/miniurl.jpg') 
 
 //━━━━━━━━━━━ ฅ^•ﻌ•^ฅ ━━━━━━━━━━━
