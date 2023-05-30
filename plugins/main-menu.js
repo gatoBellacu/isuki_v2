@@ -30,7 +30,7 @@ const defaultMenu = {
   before: `
 *꒷꒦꒷꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷*
 
-“ Holɑ *%name 👋🏻*, Espero que tengas un lindo día o noche ”
+“ Holɑ *%name 👋🏻*, Cómo se encuentra el día de hoy? ”
 
 
 ⠀\t\t\t*I N F O  -  B O T*
@@ -161,7 +161,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
     
-    let pp = './Menu2.jpg'
+    let pp = './src/menu.jpg'
      
     conn.sendFile(m.chat, pp, 'menu.jpg', text.trim(), m)
     
