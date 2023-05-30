@@ -12,14 +12,11 @@ import moment from 'moment-timezone'
 
 global.owner = [
   ['5218261000681', 'おDaniel', true],
-  ['59894566878', 'ofc᭄٭ঔerịck.yt.⁩', true],
-  ['5218261275256'],
-  ['5217122257918'], 
+  ['59894566878'],
+  ['5218261275256'], 
   ['5218139760662'],
   ['51914297121'],
-  ['50256133680'],
   ['4794069908'],  
-  ['5493816680880'],
   ['5218132588591'],
   ['5218261956657']
 ]
@@ -29,12 +26,16 @@ global.owner = [
 global.mods = [] 
 global.prems = [] 
    
-global.packname = 'ItsukiBot'
+//━━━━━━━━━━━ ฅ^•ﻌ•^ฅ ━━━━━━━━━━━
+
+global.packname = 'ItsukiBot - MD'
 global.author = 'By おDaniel'
 global.linkgc = 'https://chat.whatsapp.com/GPzrXtKmgQz5B2UjxspMPO'
 global.wait = '*↻ Espera soy lenta. . .*'
 global.botname = 'ItsukiBot | OFC'
 global.vs = 'ItsukiBot - MD'
+
+//━━━━━━━━━━━ ฅ^•ﻌ•^ฅ ━━━━━━━━━━━
 
 global.openai_key = 'sk-...OzYy'
 /* Consigue tu ApiKey en este enlace: https://platform.openai.com/account/api-keys */
@@ -81,9 +82,6 @@ global.APIKeys = {
   'https://api-xcoders.site': 'Frieren'
 }
 
-global.mods = [] 
-
-
 /*************************/
 global.cheerio = cheerio
 global.fs = fs
@@ -93,12 +91,10 @@ global.moment = moment
 
 //━━━━━━━━━━━ ฅ^•ﻌ•^ฅ ━━━━━━━━━━━
 
-//⊱ ━━━━━.⋅ IMG ⋅.━━━━ ⊰
+global.imagen1 = fs.readFileSync('./menu.jpg')
+global.miniurl = fs.readFileSync('./src/miniurl.jpg') 
 
-global.imagen1 = fs.readFileSync('./Menu2.jpg')
-global.miniurl = fs.readFileSync('./Menu2.jpg') 
-
-//━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━━━━ ฅ^•ﻌ•^ฅ ━━━━━━━━━━━
 
 global.flaaa = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
@@ -106,7 +102,7 @@ global.flaaa = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text=',
 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text=',
 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text=']
-//━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━━━━ ฅ^•ﻌ•^ฅ ━━━━━━━━━━━
 
 
 global.multiplier = 69 
