@@ -11,7 +11,7 @@ import moment from 'moment-timezone'
 //⊱ ━━━━.⋅ Añada los numeros a ser Propietario/a ⋅.━━━ ⊰  
 
 global.owner = [
-  ['5218261000681', 'おDaniel', true],
+  ['12392173989', 'お kevin', true],
   ['59894566878'],
   ['5218261275256'], 
   ['5218139760662'],
@@ -29,7 +29,7 @@ global.prems = []
 //━━━━━━━━━━━ ฅ^•ﻌ•^ฅ ━━━━━━━━━━━
 
 global.packname = 'ItsukiBot - MD'
-global.author = 'By おDaniel'
+global.author = 'By お kevin'
 global.linkgc = 'https://chat.whatsapp.com/GPzrXtKmgQz5B2UjxspMPO'
 global.wait = '*↻ Espera soy lenta. . .*'
 global.botname = 'ItsukiBot | OFC'
